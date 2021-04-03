@@ -9,5 +9,6 @@
 
 .DS_Store
 
+# generated documentation content
 doc/build/
 doc/site/
