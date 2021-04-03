@@ -10,5 +10,5 @@
 .DS_Store
 
 # generated documentation content
-doc/build/
-doc/site/
+docs/build/
+docs/site/
